@@ -38,7 +38,7 @@ A machine learning project for detecting fraudulent credit card transactions usi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arnab-Ghosh7/Creditcard
    cd Creditcard
    ```
 
